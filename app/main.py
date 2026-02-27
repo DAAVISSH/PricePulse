@@ -5,7 +5,7 @@ from app.scheduler import start_scheduler
 
 Base.metadata.create_all(bind=engine)
 
-app = FastAPI(title="Price Tracker")
+app = FastAPI(title="Price Pulse")
 
 app.include_router(products.router, prefix="/products", tags=["Products"])
 
@@ -15,4 +15,5 @@ def startup_event():
 
 @app.get("/")
 def root():
+
     return {"message": "Price Tracker API is running"}
