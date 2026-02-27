@@ -22,10 +22,10 @@ Built for e-commerce businesses, procurement teams, and anyone who needs to moni
 ![Swagger UI](swagger.png)
 
 ### Google Sheets Output
-![Google Sheets](google-sheets.png)
+![Google Sheets](google_sheets.png)
 
 ### Telegram Price Alert
-![Telegram Alert](telegram-alert.png)
+![Telegram Alert](telegram_alert.png)
 
 ---
 
@@ -185,3 +185,4 @@ pricepulse/
 └── README.md
 
 ```
+
