@@ -16,6 +16,19 @@ Built for e-commerce businesses, procurement teams, and anyone who needs to moni
 
 ---
 
+## Screenshots
+
+### API Endpoints (Swagger UI)
+![Swagger UI](swagger.png)
+
+### Google Sheets Output
+![Google Sheets](google-sheets.png)
+
+### Telegram Price Alert
+![Telegram Alert](telegram-alert.png)
+
+---
+
 ## Tech Stack
 
 - **Python 3.13**
@@ -170,4 +183,5 @@ pricepulse/
 ├── requirements.txt
 ├── Dockerfile
 └── README.md
+
 ```
