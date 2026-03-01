@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+python-dotenv
+playwright
+beautifulsoup4
+httpx
+apscheduler
+gspread
+google-auth
+python-telegram-bot
